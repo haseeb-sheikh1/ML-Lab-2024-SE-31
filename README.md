@@ -1,4 +1,4 @@
-# 🤖 CS-3105 Machine Learning Lab
+#  CS-3105 Machine Learning Lab
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg?logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Tools-Jupyter_Notebook-F37626.svg?logo=jupyter&logoColor=white)
@@ -7,14 +7,14 @@
 
 This repository contains all laboratory assignments, experimental notebooks, and the final open-ended project for the **CS-3105 Machine Learning Lab** (Fall 2026). The coursework progresses from Python and data manipulation fundamentals to implementing deep learning neural networks.
 
-## 👨‍💻 Student Information
+##  Student Information
 * **Name:** Sheikh Haseeb-ur-Rehman
 * **Roll Number:** 2024-SE-31
 * **Programme:** BSc Software Engineering (BScSE)
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 * **Language:** Python
 * **Data Manipulation:** NumPy, Pandas
 * **Data Visualization:** Matplotlib, Seaborn
@@ -23,13 +23,13 @@ This repository contains all laboratory assignments, experimental notebooks, and
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 Each lab is self-contained within its respective directory, containing the Jupyter Notebook, required datasets (if applicable), and outputs.
 
 ```text
 📦 ML-Lab-2024-SE-31
  ┣ 📂 Lab01  # Python Foundations & Data Handling
- ┣ 📂 Lab02  # (Upcoming) NumPy: Arrays & Math
- ┣ 📂 Lab03  # (Upcoming) Pandas: Data Analysis
- ┣ 📂 Lab04  # (Upcoming) Matplotlib & Seaborn
+ ┣ 📂 Lab02  # (Upcoming)
+ ┣ 📂 Lab03  # (Upcoming) 
+ ┣ 📂 Lab04  # (Upcoming) 
  ┗ 📜 README.md
